@@ -19,6 +19,23 @@ This repository contains a comprehensive MATLAB project exploring various modula
 ### Filtered Signal
 ![Filtered_Signal](https://github.com/user-attachments/assets/a0e0eafc-44e3-4a03-9cd3-d590c32481a7)
 
+### Step4: Time Domain
+![Part1_Step4_Time_Domain](https://github.com/user-attachments/assets/a4927cd0-152c-43ab-9b2c-4c9cbbeac6fb)
+
+### Step4: Frequency_Domain
+![Part1_Step4_Frequency_Domain](https://github.com/user-attachments/assets/4592adaa-3fcd-424a-a194-d00c36a1b03d)
+
+### Step5: Time_Domain
+![Part1_Step5_Time_Domain](https://github.com/user-attachments/assets/af17cd87-4753-4c1a-8460-f17b9a837cd4)
+
+### Step5: Frequency_Domain
+![Part1_Step5_Frequency_Domain](https://github.com/user-attachments/assets/351ad079-0694-4699-8479-687668e3d2df)
+
+### Step5: Time-Domain Analysis of Filtered Speech Sounds at Various Cutoffs
+![Part1_Step5_Time_Domain](https://github.com/user-attachments/assets/4cfdb89c-afb9-4ac6-b455-7b2cdc25e67b)
+
+
+
 
 ### Part 2: DSB-SC and SSB-SC Modulation
 - **File**: `Part2.m`
