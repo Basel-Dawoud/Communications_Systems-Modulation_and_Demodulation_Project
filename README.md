@@ -13,6 +13,13 @@ This repository contains a comprehensive MATLAB project exploring various modula
   - Demonstrates envelope detection for demodulation
   - Includes extensive visualization of time and frequency domains
 
+### Original Signal
+![Original_Signal](https://github.com/user-attachments/assets/5d76d21f-38e2-4395-bd6e-c75d8017ae74)
+
+### Filtered Signal
+![Filtered_Signal](https://github.com/user-attachments/assets/a0e0eafc-44e3-4a03-9cd3-d590c32481a7)
+
+
 ### Part 2: DSB-SC and SSB-SC Modulation
 - **File**: `Part2.m`
 - **Description**:
