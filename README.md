@@ -137,4 +137,4 @@ All generated plots and audio files are automatically saved to a user-selected d
 
 ## Author
 
-Basel Dawoud - Baseldawoudengineer@gmail.com
+Basel Dawoud - Baseldawoodengineer@gmail.com
